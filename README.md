@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Code-Monish
-- 👀 I’m interested in coding ofcorse, but other than coding I'm all into reading, working out and learning new skills in general!
-- 🌱 I’m currently learning UX/UI designing. Learning about the front-end (learning C)
-- 💞️ I’m looking to collaborate on small challenging projects  
-- 📫 How to reach me :
-- You can contact me via e-mail or discord 
+### Hello there! 😁
 
-<!---
-Code-Monish/Code-Monish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Monish, a student from Amrita Vishwa Vidyapeetham! 
+Studying Btech in Robotics and Artificial Intelligence.
+
+I'm really passionate about learning new and complex things that'd serve as a tool to guide me through future problems for which I'd craft creative solutions! 💪 
+I'm pretty optimistic about the future too! 
