@@ -1,14 +1,14 @@
-### Hello there! 😁
+### Hello there! 
 #### I'm a student from Amrita Vishwa Vidyapeetham
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Code-Monish)  
 Studying Btech in Robotics and Artificial Intelligence.
 
 I'm really passionate about learning new and complex things that'd serve as a tool to guide me through future problems for which I'd craft creative solutions! 💪 I'm pretty optimistic about the future too!
 
-Skills: SVELTE KIT/ REACT / JS / HTML / CSS/ PYTHON
+Skills: C / REACT / JS / HTML / CSS / PYTHON
 
-- 🌱 I’m currently learning C 
-- 📫 How to reach me: Email 
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: Email (codewithmonish@gmail.com)
 - 😄 Pronouns: He/Him 
 
 
