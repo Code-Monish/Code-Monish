@@ -5,9 +5,9 @@ Studying Btech in Robotics and Artificial Intelligence.
 
 I'm really passionate about learning new and complex things that'd serve as a tool to guide me through future problems for which I'd craft creative solutions! 💪 I'm pretty optimistic about the future too!
 
-Skills: C / REACT / JS / HTML / CSS / PYTHON
+Skills: C / C++ / JS / HTML / CSS / PYTHON
 
-- 🌱 I’m currently learning C++
+- Working on projects to solify my skills
 - 📫 How to reach me: Email (codewithmonish@gmail.com)
 - 😄 Pronouns: He/Him 
 
