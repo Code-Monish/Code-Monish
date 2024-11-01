@@ -30,7 +30,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 > [!NOTE]
-> I listed down the tech I've used for few projects. They don't indecate my expertise.
+> I listed down the tech I've used for few projects. They don't indicate my expertise.
 
 <p align="center">
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
